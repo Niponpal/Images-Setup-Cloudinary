@@ -1,0 +1,53 @@
+﻿@model Customer
+
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0 rounded-4">
+        <div class="card-header bg-primary text-white py-3 px-4">
+            <h4 class="mb-0">Customer Details</h4>
+        </div>
+
+        <div class="card-body px-4 py-5">
+            <div class="row mb-3">
+                <div class="col-md-4 fw-semibold">Customer Name</div>
+                <div class="col-md-8">@Model.Name</div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-md-4 fw-semibold">Address</div>
+                <div class="col-md-8">@Model.Address</div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-md-4 fw-semibold">Customer URL</div>
+                <div class="col-md-8">
+                    <a href="@Model.CustomerUrl" target="_blank">@Model.CustomerUrl</a>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-md-4 fw-semibold">Description</div>
+                <div class="col-md-8">@Html.Raw(Model.Description)</div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-md-4 fw-semibold">Customer Image</div>
+                <div class="col-md-8">
+                    @if (!string.IsNullOrEmpty(Model.CustomerImages))
+                    {
+                        <img src="@Model.CustomerImages" alt="Customer Image" class="img-thumbnail rounded" style="max-height: 200px;" />
+                    }
+                    else
+                    {
+                        <span class="text-muted">No image uploaded</span>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="card-footer bg-light text-end px-4 py-3">
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+            <a asp-action="Index" class="btn btn-secondary ms-2">Back to List</a>
+        </div>
+    </div>
+</div>

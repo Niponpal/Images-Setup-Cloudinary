@@ -1,0 +1,31 @@
+﻿@model List<Customer>
+
+<h2>Customer List</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Customer Image</th>
+            <th>Customer Url</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Address</td>
+                <td>
+                    <img src="~/images/@(item.CustomerImages ?? "default.png")" alt="@(item.Name ?? "No Name")" width="80" />
+                </td>
+                <td>@item.CustomerUrl</td>
+                <td>@item.Description</td>
+            </tr>
+        }
+    </tbody>
+</table>

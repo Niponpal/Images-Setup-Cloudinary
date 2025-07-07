@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Np\\Desktop\\MVC\\ImagesSetup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53E67CC5-09ED-4DB9-ABF7-74ECE18AD91C}|ImagesSetup\\ImagesSetup.csproj|c:\\users\\np\\desktop\\mvc\\imagessetup\\imagessetup\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53E67CC5-09ED-4DB9-ABF7-74ECE18AD91C}|ImagesSetup\\ImagesSetup.csproj|solutionrelative:imagessetup\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E67CC5-09ED-4DB9-ABF7-74ECE18AD91C}|ImagesSetup\\ImagesSetup.csproj|c:\\users\\np\\desktop\\mvc\\imagessetup\\imagessetup\\repository\\cloudinaryimagerepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E67CC5-09ED-4DB9-ABF7-74ECE18AD91C}|ImagesSetup\\ImagesSetup.csproj|solutionrelative:imagessetup\\repository\\cloudinaryimagerepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E67CC5-09ED-4DB9-ABF7-74ECE18AD91C}|ImagesSetup\\ImagesSetup.csproj|c:\\users\\np\\desktop\\mvc\\imagessetup\\imagessetup\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E67CC5-09ED-4DB9-ABF7-74ECE18AD91C}|ImagesSetup\\ImagesSetup.csproj|solutionrelative:imagessetup\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E67CC5-09ED-4DB9-ABF7-74ECE18AD91C}|ImagesSetup\\ImagesSetup.csproj|c:\\users\\np\\desktop\\mvc\\imagessetup\\imagessetup\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53E67CC5-09ED-4DB9-ABF7-74ECE18AD91C}|ImagesSetup\\ImagesSetup.csproj|solutionrelative:imagessetup\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E67CC5-09ED-4DB9-ABF7-74ECE18AD91C}|ImagesSetup\\ImagesSetup.csproj|c:\\users\\np\\desktop\\mvc\\imagessetup\\imagessetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E67CC5-09ED-4DB9-ABF7-74ECE18AD91C}|ImagesSetup\\ImagesSetup.csproj|solutionrelative:imagessetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\ImagesSetup\\ImagesSetup\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ImagesSetup\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\ImagesSetup\\ImagesSetup\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "ImagesSetup\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T16:17:12.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\ImagesSetup\\ImagesSetup\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "ImagesSetup\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\ImagesSetup\\ImagesSetup\\Views\\Customer\\Create.cshtml*",
+              "RelativeToolTip": "ImagesSetup\\Views\\Customer\\Create.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T16:13:51.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\ImagesSetup\\ImagesSetup\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "ImagesSetup\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\ImagesSetup\\ImagesSetup\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "ImagesSetup\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:12:42.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\ImagesSetup\\ImagesSetup\\Program.cs",
+              "RelativeDocumentMoniker": "ImagesSetup\\Program.cs",
+              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\ImagesSetup\\ImagesSetup\\Program.cs",
+              "RelativeToolTip": "ImagesSetup\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:11:52.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CloudinaryImageRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Np\\Desktop\\MVC\\ImagesSetup\\ImagesSetup\\Repository\\CloudinaryImageRepository .cs",
+              "RelativeDocumentMoniker": "ImagesSetup\\Repository\\CloudinaryImageRepository .cs",
+              "ToolTip": "C:\\Users\\Np\\Desktop\\MVC\\ImagesSetup\\ImagesSetup\\Repository\\CloudinaryImageRepository .cs",
+              "RelativeToolTip": "ImagesSetup\\Repository\\CloudinaryImageRepository .cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:08:02.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
