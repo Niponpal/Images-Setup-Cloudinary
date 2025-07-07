@@ -171,3 +171,4 @@ C:\Users\Np\Desktop\MVC\ImagesSetup\ImagesSetup\obj\Debug\net8.0\ImagesSetup.gen
 C:\Users\Np\Desktop\MVC\ImagesSetup\ImagesSetup\obj\Debug\net8.0\ref\ImagesSetup.dll
 C:\Users\Np\Desktop\MVC\ImagesSetup\ImagesSetup\bin\Debug\net8.0\CloudinaryDotNet.dll
 C:\Users\Np\Desktop\MVC\ImagesSetup\ImagesSetup\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Np\Desktop\MVC\ImagesSetup\ImagesSetup\obj\Debug\net8.0\ImagesSetup.sourcelink.json
